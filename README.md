@@ -22,8 +22,8 @@
 📌 Skills: Wireframing, Prototyping, User Experience  
 
 ### 💻 Development  
-💡 Languages: Python, JavaScript, C  
-🌐 Web: HTML, CSS, JavaScript, React  
+💡 Languages: Python, C++  
+🌐 Web: HTML, CSS, JavaScript
 ⚙️ Embedded: STM32, LPC2148  
 
 ---
